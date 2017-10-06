@@ -54,7 +54,7 @@ uncommented for a better overview of the processes.
 
 ## Authors
 
-* **Bryn Lloud** - *Initial work* - [Met Office](https://github.com/MetOffice)
+* **Bryn Lloyd** - *Initial work* - [Met Office](https://github.com/MetOffice)
 
 See also the list of [contributors](https://github.com/bryn-lloyd/url-search-demo/contributors) who participated in this project.
 
